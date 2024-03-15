@@ -1,0 +1,7 @@
+#Listas,tuplas,sets e dicionários.
+#Exercicio 10
+#Altere o programa anterior, intercalando 3 vetores de 10 elementos cada.
+
+
+
+
