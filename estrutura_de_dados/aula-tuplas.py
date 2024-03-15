@@ -2,5 +2,5 @@
 lanche = "Hamburguer"
 print(lanche)
 #exemplo 2 - variáveis compostas (tuplas)
-lanchetupla = "Hamburguer", "Suco", "Pizza", "Pudim"
+lanchetupla = "Hamburguer", "Suco", "Pizza", "Pudim", "Picolé"
 print(lanchetupla[1:3])
