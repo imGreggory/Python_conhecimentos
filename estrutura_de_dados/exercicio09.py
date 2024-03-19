@@ -6,9 +6,11 @@
 vetor_A = []
 vetor_B = []
 vetor_C = []
-for i in range (0,5):
+for i in range (0,10):
+    print("-="*30)
     numeroA = int(input("Digite um número para colocar na lista A: "))
     vetor_A.append(numeroA)
+    print("-="*30)
     numeroB = int(input("Digite um número para colocar na lista B: "))
     vetor_B.append(numeroB)
 for c in range (0,5):
